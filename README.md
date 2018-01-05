@@ -1,6 +1,6 @@
 # Learning_assembly
 
-I would ones again **not** recommend doing anything with this code beacouse I am currently learning this language
+This is me learning the basics of assembly. I have a amd 64 bit processor but this should also work for intel. If you want to compile it for a 32bit system you should change the elf64 to elf32.
 
 compiling:
 ```
